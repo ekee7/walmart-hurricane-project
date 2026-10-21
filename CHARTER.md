@@ -36,10 +36,24 @@ Presentation
 
 Add a README.md file
 
-### Who Does What/Who Owns Each Question
-- Emma/Kylie: cleaning and decision logging
-- Raffaella/Miriam: weather API and join
-- All: analysis, charts/presentations
+From this project, Emma will learn more about data cleaning and decision logging. Raffaella will learn more about APIs and joins. Kylie will hone her analysis and write-up skills. Miriam will learn more about how to make effective charts that inform people on the data. These are all skills that we wanted to learn more about and get better at. Overall, all of us will learn how to be good teammates and collaborators.
+
+What limits our time is our outside academic responsibilities and work. Within the next couple of weeks, all of us have upcoming midterms. However, we will ensure that we dedicate time outside of class individually and as a group to work on the project. Every week, we will set personal tasks of what we are completing to ensure that we meet the deadlines and are not procrastinating the work in the end.
+
+What we want to avoid is procrastinating the work at the end and not communicating with each other. If we follow the rules that we outlined in the "How You Work Together" section below, then we this will ideally not be an issue.
+
+### Who Does What
+- Emma (owner)/Kylie (backup): Cleaning and decision logging
+- Raffaella (owner)/Miriam (backup): Weather API and join
+- Kylie (owner)/ Emma (backup): Analysis Q1-Q5
+- Miriam (owner)/Raffaella (backup): Charts and presentations
+
+### Who Owns Each Question
+- Q1: Kylie (Owner), Miriam (Reviewer)
+- Q2: Emma (Owner), Raffaella (Reviewer)
+- Q3: Kylie (Owner), Raffaella (Reviewer)
+- Q4: Miriam (Owner), Kylie (Reviewer)
+- Q5: Raffaella (Owner), Emma (Reviewer)
 
 ### How You Work Together
 - We will all come to every class
