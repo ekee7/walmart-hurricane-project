@@ -43,10 +43,10 @@ What limits our time is our outside academic responsibilities and work. Within t
 What we want to avoid is procrastinating the work at the end and not communicating with each other. If we follow the rules that we outlined in the "How You Work Together" section below, then we this will ideally not be an issue.
 
 ### Who Does What
-- Emma (owner)/Kylie (backup): Cleaning and decision logging
-- Raffaella (owner)/Miriam (backup): Weather API and join
-- Kylie (owner)/ Emma (backup): Analysis Q1-Q5
-- Miriam (owner)/Raffaella (backup): Charts and presentations
+- Emma (Owner)/Kylie (Backup): Cleaning and decision logging
+- Raffaella (Owner)/Miriam (Backup): Weather API and join
+- Kylie (Owner)/ Emma (Backup): Analysis Q1-Q5
+- Miriam (Owner)/Raffaella (Backup): Charts and presentations
 
 ### Who Owns Each Question
 - Q1: Kylie (Owner), Miriam (Reviewer)
